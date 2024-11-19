@@ -1,2 +1,5 @@
-API for To Do Tasks,
-Run project and go to http://localhost:8080/swagger-ui/index.html to see how to use the API
+App para crear, eliminar, y actualizar el estado de tareas.
+
+Ofrece los siguientes Endpoints:
+![image](https://github.com/user-attachments/assets/22f61521-e9bb-4a48-bc16-54e21d34407b)
+
